@@ -19,4 +19,6 @@ Create a copy of the sample.world file in the root of the directory, for example
 
 `cp sample.world buoy/`
 
-edit the <uri> tag so that the file points to the collada (.dae) file
+edit the <uri> tag so that the file points to the collada (.dae) file then launch it with gazebo
+
+`gazebo sample.world`
