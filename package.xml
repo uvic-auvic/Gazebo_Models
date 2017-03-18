@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package>
+  <name>Gazebo_models</name>
+  <version>0.0.1</version>
+  <description>Our Model Database</description>
+  <maintainer email="asinha@todo.todo">asinha</maintainer>
+  <license>BSD</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <export>
+  </export>
+</package>
